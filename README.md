@@ -20,3 +20,9 @@ A simple and aesthetic to-do list app using plain HTML, CSS, and JS.
 ---
 
 Built with 💖 and uding plain JS.
+
+[![View Site](https://img.shields.io/badge/View%20Site-Live-blue?style=for-the-badge)](https://dianaluel.github.io/frontend/)
+
+## 🌐 Live Demo
+
+[Click here to view the website](https://dianaluel.github.io/frontend/)

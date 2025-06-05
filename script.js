@@ -1,6 +1,6 @@
 const tasks = [
-  { id: 1, title: "Buy groceries 🛒", completed: false },
-  { id: 2, title: "Read a book 📚", completed: true },
+  { id: 1, title: "Go Shooping 🛒", completed: false },
+  { id: 2, title: "Study for Exam 📚", completed: true },
 ];
 
 let filter = "all";
